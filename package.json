@@ -2,4 +2,7 @@
   "name": "tech-article",
   "version": "1.0.0",
   "description": "technology articles",
+  "dependencies": {
+    "zenn-cli": "^0.1.148"
+  }
 }
