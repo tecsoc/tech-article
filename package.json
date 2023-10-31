@@ -2,6 +2,10 @@
   "name": "tech-article",
   "version": "1.0.0",
   "description": "technology articles",
+  "scripts": {
+    "zenn:create": "zenn new:article",
+    "zenn:preview": "zenn preview"
+  },
   "dependencies": {
     "zenn-cli": "^0.1.148"
   }
